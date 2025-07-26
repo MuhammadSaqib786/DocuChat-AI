@@ -1,0 +1,106 @@
+Muhammad Saqib Date of birth: 01/01/1999  Nationality: Pakistani  Phone number: (+92) 3168813499 (Mobile)  Email address: saqisaqi.sk@gmail.com   
+Address: Village Narali Mirzian P/O Qazian Teh. Gujar Khan Dis. Rawalpindi,
+47850, Gujar Khan, Pakistan (Home)   
+01/10/2018 – CURRENT Rawalpindi, Pakistan 
+APPLICATION PROGRAMMER UPWORK 
+• Developed various web applications utilizing technologies such as Flask and Asp.Net.
+• Engineered mobile applications using platforms such as React Native and Android Studio.
+• Demonstrated expertise in managing and developing databases.
+• Built and maintained desktop applications with languages such as C#, C++, Python, and Java.
+• Managed diverse databases leveraging MySQL, SQLite, and Oracle
+01/10/2017 – 10/08/2021 Rawalpindi, Pakistan 
+BS (COMPUTER SCIENCE) PMAS ARID AGRICULTURE UNIVERSITY RAWALPINDI 
+• Professional development completed in Python, Java, and JavaScript.
+• Completed several projects related to software development during semesters. 
+• Learned C++, Java, JavaScript, and PHP.
+• Gained concepts of OOP. 
+• Gained strong foundations in Web Development, Artiﬁcial Intelligence, Statistics, and Algorithm
+Analysis and Data analysis concepts. 
+• Excelled in Web development, Distributed Database Systems, and Data science coursework
+Website https://www.uaar.edu.pk/index.php  Final grade3.95/4.0 
+12/08/2014 – 12/08/2016 Punjab college (3-km) main G.T. Road Gujar khan, Rawalpindi, Gujar Khan, Pakistan 
+HIGHER SECONDARY SCHOOL CERTIFICATE Punjab College, Gujar Khan 
+• Studied intermediate knowledge of Computer science here.
+• Studied subjects related to the computing ﬁeld like Mathematics,
+• Statistics and Computer Science.
+• Performed practical work related to these subjects.
+Website https://pgc.edu/  Final gradeA+ 
+15/05/2012 – 15/05/2014 Gujar Khan, Pakistan 
+SECONDARY SCHOOL CERTIFICATE Fauji Foundation Model School City Campus Gujar Khan 
+• Gained knowledge of Science subjects. 
+• Studied basics of Computer, Physics, Mathematics, and chemistry. 
+• Performed some practical work related to these subjects.ext
+Website https://www.result.pk/colleges/fauji-foundation-school.html  Final gradeB 
+01/07/2020 – 10/03/2023 Rawalpindi, Pakistan 
+BLOCKCHAIN PIAIC 
+• Acquired knowledge of Web Designing and Development. 
+• Learned about WordPress theme customization, Plugin Development, Security, and Optimization. 
+• Learned core development languages like HTML, CSS, JavaScript, and version control system(Git). 
+• Learned about Solidity, Truﬄe, Web 3.0, and Dapps.
+• Learned about Cryptocurrencies and Blockchain-based solutions including multiple projects in
+WORK EXPERIENCE
+EDUCATION AND TRAININGdiﬀerent domains.
+Website https://portal.piaic.org/  Final gradeA 
+16/03/2022 Pakistan 
+PCAP: PROGRAMMING ESSENTIALS IN PYTHON OPENEDG 
+• Mastered Python syntax and semantics.
+• Grasped fundamental programming concepts.
+• Manipulated Python's built-in data structures.
+• Understood Python's object-oriented programming.
+• Utilized key Python libraries and modules.
+Website https://pythoninstitute.org/  
+24/04/2020 
+IMAGE PROCESSING IN PYTHON DataCamp 
+• Applied Python for image manipulation.
+• Utilized OpenCV for image processing.
+• Implemented image classiﬁcation with Python.
+Website https://www.datacamp.com/  
+02/01/2020 London 
+RESPONSIVE WEBSITE BASICS: CODE WITH HTML, CSS, AND JAVASCRIPT University of London 
+• Mastered HTML for web structure.
+• Utilized CSS for visual design.
+• Implemented JavaScript for dynamic content.
+• Created responsive designs for multiple devices.
+Website https://www.coursera.org/account/accomplishments/verify/4EQ52ZPBU39F  
+16/10/2022 
+FRONT-END WEB UI FRAMEWORKS AND TOOLS: BOOTSTRAP 4 Coursera 
+• Utilized Bootstrap for responsive design.
+• Implemented Bootstrap's CSS components.
+• Leveraged Bootstrap's JavaScript plugins.
+• Applied grid system for layout.
+Website https://www.coursera.org/account/accomplishments/verify/YZBQFMXXRV3D  
+Mother tongue(s):  URDU 
+Other language(s):  
+UNDERSTANDING SPEAKING WRITING
+Listening ReadingSpoken
+productionSpoken
+interaction
+ENGLISH B2 B2 B2 B2 B2
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proﬁcient user 
+Programming Languages– C, C++ , JAVASCRIPT, CSS3, HTML5, PYTHON, PHP  Programming Languages: Java, C, Kotlin, C#, C++,LINQ LANGUAGE SKILLS 
+DIGITAL SKILLS Web DevelopmentPython, ﬂask, .net, asp.net  Web Technologies Fundamentals - HTML, CSS  MERN Stack (MongoDB,
+ExpressJS, ReactJS, NodeJS) 
+Mobile Application DevelopmentReact Native  Android Studio 
+Database HandlingOracle  MySql  MongoDb  SqLite 
+30/06/2022 
+Silver Medal – PMAS ARID AGRICULTURE UNIVERSITY RAWALPINDI 
+• Awarded a Silver Medal from the university.
+• Achieved scoring the second-highest CGPA.
+• Ranked amongst the top in the entire department.
+Link https://drive.google.com/ﬁle/d/1b75Jhg5_9ty-tK2-upiEXhXgj62rSSAH/view?usp=sharing  
+01/05/2020 – 10/07/2021 
+Skin Disease Detection using Convolutional Neural Networks 
+• Built a CNN model for skin disease detection.
+• Trained and validated the model using a skin disease dataset.
+• Used Flask for web app development.
+• Integrated the CNN model with the Flask app.
+• Created an interactive user interface.
+• Implemented image uploading functionality.
+• Processed uploaded images for model prediction.
+• Displayed prediction results eﬀectively.
+Cricket and Technology 
+• Passionate about playing and watching cricket.
+• Enjoy exploring AI and machine learning technologies.
+• Interested in continual learning of web development skills.ADDITIONAL INFORMATIONHONOURS AND AWARDS 
+PROJECTS 
+HOBBIES AND INTERESTS 

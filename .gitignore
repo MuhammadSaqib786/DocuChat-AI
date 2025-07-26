@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+env/
+ENV/
+.venv/
+pip-selfcheck.json
+
+# Model and data cache (HuggingFace, Transformers, FAISS, SentenceTransformers)
+*.faiss.idx
+*.faiss
+*.h5
+*.pth
+*.ckpt
+*.pt
+*.bin
+*.model
+*.npz
+*.onnx
+*.tflite
+
+# User uploads and generated files
+uploads/
+*.txt
+*.json
+*.chunks.json
+*.meta.json
+
+# Large files
+*.dll
+*.lib
+*.tar.gz
+*.zip
+
+# Images (if you don't want to upload example images)
+# images/
+
+# Ignore secret or config files
+.env
+*.env
+
+# PyInstaller
+*.spec
+
+# Mac/Windows cache
+*.db

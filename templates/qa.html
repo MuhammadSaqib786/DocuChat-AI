@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-8">
+    <div class="card shadow p-4">
+      <div class="card-body">
+        <h3 class="font-weight-bold mb-3"><i class="fas fa-comments"></i> Ask a Question About Your Document</h3>
+        <form method="post" id="qaForm">
+          <div class="form-group">
+            <label for="doc"><i class="fas fa-file-alt"></i> Select Document:</label>
+            <select class="form-control" id="doc" name="doc" required>
+              <option value="">-- Choose --</option>
+              {% for doc in docs %}
+              <option value="{{ doc }}" {% if doc == selected_doc %}selected{% endif %}>{{ doc }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="question"><i class="fas fa-question-circle"></i> Your Question:</label>
+            <input type="text" class="form-control" id="question" name="question" value="{{ question }}" required>
+          </div>
+          <button type="submit" class="btn btn-primary font-weight-bold btn-block">
+            <i class="fas fa-search"></i> Ask
+          </button>
+        </form>
+        <!-- Loader -->
+        <div id="loader" class="text-center py-3" style="display:none;">
+          <i class="fas fa-spinner fa-spin fa-3x" style="color:#406aff;"></i>
+          <div class="mt-2">Thinking...</div>
+        </div>
+        {% if answer %}
+        <div class="card shadow my-4">
+          <div class="card-header bg-primary text-white font-weight-bold">
+            <i class="fas fa-robot"></i> DocuChat AI Answer
+          </div>
+          <div class="card-body">
+            <p class="lead">{{ answer }}</p>
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#contextCollapse">
+              <i class="fas fa-book-open"></i> Show Source Context
+            </button>
+            <div class="collapse mt-3" id="contextCollapse">
+              {% if context_chunks %}
+                {% for chunk in context_chunks %}
+                  <div class="card my-2 p-2" style="background:#f5f8fa;">{{ chunk }}</div>
+                {% endfor %}
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block extra_scripts %}
+<script>
+document.getElementById("qaForm").onsubmit = function() {
+    document.getElementById("loader").style.display = "block";
+};
+</script>
+{% endblock %}

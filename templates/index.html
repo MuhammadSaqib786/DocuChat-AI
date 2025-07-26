@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="hero-section text-center py-5 mb-5">
+    <h1 class="display-3 font-weight-bold mb-3"><i class="fas fa-brain"></i> DocuChat AI</h1>
+    <p class="lead mb-4">Upload your documents. Instantly ask questions. Get smart answers — privately, on your device.</p>
+    <a class="btn btn-lg btn-light shadow px-5 py-3 font-weight-bold" href="{{ url_for('upload') }}">
+        <i class="fas fa-upload"></i> Get Started
+    </a>
+</div>
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-4 text-center mb-4">
+            <i class="fas fa-file-pdf fa-4x" style="color:#406aff"></i>
+            <h5 class="mt-3 font-weight-bold">PDF, DOCX & TXT</h5>
+            <p>Supports all common document types for maximum flexibility.</p>
+        </div>
+        <div class="col-md-4 text-center mb-4">
+            <i class="fas fa-robot fa-4x" style="color:#00c6ae"></i>
+            <h5 class="mt-3 font-weight-bold">AI-Powered Q&amp;A</h5>
+            <p>Get accurate, context-rich answers from your own files using advanced AI models.</p>
+        </div>
+        <div class="col-md-4 text-center mb-4">
+            <i class="fas fa-lock fa-4x" style="color:#406aff"></i>
+            <h5 class="mt-3 font-weight-bold">100% Private</h5>
+            <p>Your documents and questions are never sent to the cloud.</p>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-6">
+    <div class="card shadow p-4">
+      <div class="text-center mb-3">
+        <i class="fas fa-upload fa-3x mb-2" style="color:#406aff;"></i>
+        <h3 class="font-weight-bold">Upload Document</h3>
+        <p class="text-muted mb-2">PDF, DOCX or TXT. Secure and private.</p>
+      </div>
+      <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+          <label for="file"><i class="fas fa-file"></i> Select file</label>
+          <input type="file" class="form-control-file" id="file" name="file" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block font-weight-bold">
+          <i class="fas fa-cloud-upload-alt"></i> Upload
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}
