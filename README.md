@@ -4,8 +4,6 @@
 
 ---
 
-![DocuChat AI Banner](images/banner.png)
-
 DocuChat AI is a **private, smart, and beautiful document Q&A web app**.  
 **Upload any PDF, DOCX, or TXT file. Instantly ask questions and get clear, context-aware answers—powered entirely by local AI.**  
 No data leaves your device. Your privacy, your answers.
