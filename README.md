@@ -4,8 +4,6 @@
 
 ---
 
-![DocuChat AI Banner](images/banner.png)
-
 DocuChat AI is a **private, smart, and beautiful document Q&A web app**.  
 **Upload any PDF, DOCX, or TXT file. Instantly ask questions and get clear, context-aware answers—powered entirely by local AI.**  
 No data leaves your device. Your privacy, your answers.
@@ -71,7 +69,7 @@ No data leaves your device. Your privacy, your answers.
 Clone and run in under 3 minutes:
 
 ```bash
-git clone https://github.com/yourusername/docuchat-ai.git
+git clone https://github.com/MuhammadSaqib786/docuchat-ai.git 
 cd docuchat-ai
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
