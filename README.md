@@ -34,7 +34,7 @@ No data leaves your device. Your privacy, your answers.
 ---
 
 ### Spinner / Loading (while answering)  
-<img src="images/spinner.jpeg" alt="Loading Spinner" width="800">
+<img src="images/spinner1.jpeg" alt="Loading Spinner" width="800">
 
 ---
 
